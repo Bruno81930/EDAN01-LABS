@@ -7,3 +7,5 @@
 [Assignment#2 - Logistics](./Assignment2/)
 
 [Assignment#3 - Depth First Search](./Assignment3/)
+
+[Assignment#4 - – Auto Regression Filter](./Assignment4/)
