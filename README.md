@@ -2,4 +2,5 @@
 
 ## Assignments
 
-[Assignment#1 - Photo](./Assignment1/) 
+[Assignment#1 - Photo](./Assignment1/)
+[Assignment#2 - Logistics](./Assignment2/)
